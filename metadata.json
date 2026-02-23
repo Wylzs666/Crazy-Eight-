@@ -1,0 +1,5 @@
+{
+  "name": "Crazy Eights",
+  "description": "A classic Crazy Eights card game against an AI opponent.",
+  "requestFramePermissions": []
+}
